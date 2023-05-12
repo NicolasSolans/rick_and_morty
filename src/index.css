@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./components/imagenes/fondos-para-páginas-web-6.jpg');
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  
+
+  
 }
 
 code {
